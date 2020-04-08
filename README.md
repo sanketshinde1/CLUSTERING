@@ -7,5 +7,5 @@ Kmeans algorithm is an algorithm that tries to partition the dataset into K pre-
 
 #Kmeans gives more weight to the bigger clusters.
 
-In our project we have created an cluster for 2 columns.There are total 5 clusters with their centroids.We have visualized the dataset by using histogram and box plot.
+In our project we have created an cluster for columns.There are total 5 clusters with their centroids.We have visualized the dataset by using histogram and box plot.
 These clusters are useful in finding the relation of the data which are related with each other and hence forming groups accordingly.If data is in groups we can visuallize it better. 
